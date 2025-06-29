@@ -1,36 +1,4 @@
-Here's what you can ask me to do:
-
-General:
-  - What's the time?
-  - What's the weather like today?
-  - Tell me a joke
-  - Open [AppName]
-
-System:
-  - Open [Application]
-  - Shutdown the system
-  - Increase/Decrease volume
-  - Take a screenshot
-
-Productivity:
-  - Set a reminder for [Time]
-  - Create a new note
-  - Start Pomodoro timer
-  - What's on my schedule today?
-
-Entertainment:
-  - Play my favorite playlist
-  - Suggest a movie
-  - Open Netflix
-
-Smart Home:
-  - Turn off the lights
-  - Set thermostat to [Temperature]
-  - Lock the front door
-
-AI / Search:
-  - Search "<Your Query>"
-  - Summarize this article
-  - Translate [word] to [language]
-  - Define [term]
-  - What is the news today?
+Available commands:
+- time : Show current time
+- help : Show this help message
+- goodbye : Exit the assistant
