@@ -1,3 +1,6 @@
 #ignore these files
 .venv
 .git
+# Ignore log and history files
+history.txt
+jarvis.log
