@@ -2,3 +2,5 @@ Available commands:
 - time : Show current time
 - help : Show this help message
 - goodbye : Exit the assistant
+- history :To check the previous converstation
+- search:To filter conversations

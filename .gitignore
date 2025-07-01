@@ -2,5 +2,5 @@
 .venv
 .git
 # Ignore log and history files
-history.txt
 jarvis.log
+jarvis_history.txt
